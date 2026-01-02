@@ -1,0 +1,6 @@
+# Build Files
+/target
+
+# Environment Files
+.vscode*/*
+**/*.env
